@@ -1,0 +1,15 @@
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\bin\Debug\net6.0\ConsolApp2.exe
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\bin\Debug\net6.0\ConsolApp2.deps.json
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\bin\Debug\net6.0\ConsolApp2.runtimeconfig.json
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\bin\Debug\net6.0\ConsolApp2.dll
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\bin\Debug\net6.0\ConsolApp2.pdb
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\obj\Debug\net6.0\ConsolApp2.csproj.AssemblyReference.cache
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\obj\Debug\net6.0\ConsolApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\obj\Debug\net6.0\ConsolApp2.AssemblyInfoInputs.cache
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\obj\Debug\net6.0\ConsolApp2.AssemblyInfo.cs
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\obj\Debug\net6.0\ConsolApp2.csproj.CoreCompileInputs.cache
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\obj\Debug\net6.0\ConsolApp2.dll
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\obj\Debug\net6.0\refint\ConsolApp2.dll
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\obj\Debug\net6.0\ConsolApp2.pdb
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\obj\Debug\net6.0\ConsolApp2.genruntimeconfig.cache
+C:\Users\jskre\source\repos\ConsolApp2\ConsolApp2\obj\Debug\net6.0\ref\ConsolApp2.dll

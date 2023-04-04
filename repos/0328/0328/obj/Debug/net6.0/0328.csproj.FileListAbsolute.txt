@@ -1,0 +1,15 @@
+C:\Users\jskre\source\repos\0328\0328\bin\Debug\net6.0\0328.exe
+C:\Users\jskre\source\repos\0328\0328\bin\Debug\net6.0\0328.deps.json
+C:\Users\jskre\source\repos\0328\0328\bin\Debug\net6.0\0328.runtimeconfig.json
+C:\Users\jskre\source\repos\0328\0328\bin\Debug\net6.0\0328.dll
+C:\Users\jskre\source\repos\0328\0328\bin\Debug\net6.0\0328.pdb
+C:\Users\jskre\source\repos\0328\0328\obj\Debug\net6.0\0328.csproj.AssemblyReference.cache
+C:\Users\jskre\source\repos\0328\0328\obj\Debug\net6.0\0328.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jskre\source\repos\0328\0328\obj\Debug\net6.0\0328.AssemblyInfoInputs.cache
+C:\Users\jskre\source\repos\0328\0328\obj\Debug\net6.0\0328.AssemblyInfo.cs
+C:\Users\jskre\source\repos\0328\0328\obj\Debug\net6.0\0328.csproj.CoreCompileInputs.cache
+C:\Users\jskre\source\repos\0328\0328\obj\Debug\net6.0\0328.dll
+C:\Users\jskre\source\repos\0328\0328\obj\Debug\net6.0\refint\0328.dll
+C:\Users\jskre\source\repos\0328\0328\obj\Debug\net6.0\0328.pdb
+C:\Users\jskre\source\repos\0328\0328\obj\Debug\net6.0\0328.genruntimeconfig.cache
+C:\Users\jskre\source\repos\0328\0328\obj\Debug\net6.0\ref\0328.dll
